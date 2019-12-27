@@ -7,10 +7,14 @@ modified: 12-25-2019
 comments: false
 ---
 
+### Optical characterization of nano-structures
+
+The goal of this research is to investigate characterization of nanometer sized structures using optical methods.  Characterization of nano-structures has been of interest for a large variety of applications from nano-manufacturing to combustion diagnosis.  In this study we are focusing on defining the size and geometric configuration of the nano-particle aggregates by using light scattering experiments.  This is currently an ongoing project and we have been working on identifying soot aggregates using light experiments without ex-citu measurements.  While we have shown that the problem can be formulated as an inverse problem and solved by various deterministic gradient based or global search algorithms, we have recently introduced the use of artificial intelligence (AI) via Approximate Bayesian Computation (ABC) for the solution of the problem.  We would like to pursue further avenues using AI in collaboration with faculty in Computer Engineering department, while we introduce more complexities to the problem for more accurate representation of the physical system considered.  The study will be the continuation of recent MS graduate Ozan Ericok’s research.  Please see Ozan Ericok’s publications (in the publications link) for more information on this topic.  
 
 It all started when my father taught me some notions of Visual Basic, and with the priceless help of the code completion tool (yeah, no Google at that time). Since then, I've been enjoying coding and here you can find some of the programs I've written.
 
-### Research
+### Phase transitions and glass transitions
+Important phenomena, not yet fully understood. One of the unsolved problems in condensed matter physics. hard disk systems exhibiting these transitions. methods from topologicl data analysis to understand the topology of the configuration space.
 
 <img src="{{ site.github.url }}/images/deep_learning.png" height="300" width="300">
 
