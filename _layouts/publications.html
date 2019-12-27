@@ -1,0 +1,337 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
+
+<body class="page">
+<style>
+    /*********************************
+     The list of publication items
+     *********************************/
+/* The list of items */
+.biblist { }
+
+/* The item */
+.biblist li { }
+
+/* You can define custom styles for plstyle field here. */
+
+
+/*************************************
+ The box that contain BibTeX code
+ *************************************/
+div.noshow { display: none; }
+div.bibtex {
+	margin-right: 0%;
+	margin-top: 1.2em;
+	margin-bottom: 1em;
+	border: 1px solid silver;
+	padding: 0em 1em;
+	background: #ffffee;
+}
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;}</style>
+<script type="text/javascript">
+    <!--
+    // Toggle Display of BibTeX
+    function toggleBibtex(articleid) {
+        var bib = document.getElementById('bib_'+articleid);
+        if (bib) {
+            if(bib.className.indexOf('bibtex') != -1) {
+                bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+            }
+        } else {
+            return;
+        }
+    }
+-->
+    </script>
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http://' %}
+      "{{ page.image.feature }}"
+    {% elsif page.image.feature contains 'https://' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  <article>
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+      {{ content }}
+
+<!-- JOURNAL PUBLICATIONS --> 
+<h4 style="margin-bottom:0px;padding-top:10px;">Journal Publications</h4>
+<ul class="biblist">
+
+	<!-- Start Item: Ericok2019 -->
+	<li ><p>
+	O. B. Ericok, 
+	A. K. Ozbek,
+	<a href="https://www.cmpe.boun.edu.tr/~cemgil/" target="_blank">A. T. Cemgil</a>, 
+	<a href="http://web1.boun.edu.tr/hakanerturk/" target="_blank">H. Erturk</a>
+	<br><b>Gaussian process and design of experiments for surrogate modeling of optical properties of fractal aggregates</b>
+	<br><i>Journal of Quantitative Spectroscopy and Radiative Transfer</i>, vol. 239, pp. 106643, 2019.<br/>
+	<a href="javascript:toggleBibtex('ERICOK2019')">[BibTeX]</a>
+	<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022407319305564" target="_blank">[PDF]</a> 
+	<a href="https://www.researchgate.net/project/Inverse-Design-Control-and-Characterization-of-Thermal-Optics-Systems"  target="_blank">[Project Page]</a>
+	</p><div id="bib_ERICOK2019" class="bibtex noshow">
+	<pre>
+	@article{ERICOK2019,
+	title = "Gaussian process and design of experiments for surrogate modeling of optical properties of fractal aggregates",
+	journal = "Journal of Quantitative Spectroscopy and Radiative Transfer",
+	volume = "239",
+	pages = "106643",
+	year = "2019",
+	issn = "0022-4073",
+	doi = "https://doi.org/10.1016/j.jqsrt.2019.106643",
+	url = "http://www.sciencedirect.com/science/article/pii/S0022407319305564",
+	author = "Ozan Burak Eriçok and Atay Kaan Özbek and Ali Taylan Cemgil and Hakan Ertürk",
+	keywords = "Light scattering, Fractal aggregates, Gaussian process regression, Supervised learning, Surrogate model, Artificial learning"
+	}
+	</pre>
+	</div>
+	</li>
+	<!-- End Item: Ericok2019 -->
+
+	<!-- Start Item: ericok2018 -->
+	<li ><p>
+	O. B. Ericok, 
+	<a href="http://web1.boun.edu.tr/hakanerturk/" target="_blank">H. Erturk</a>
+	<br><b>Optical characterization limits of nanoparticle aggregates at different wavelengths using approximate Bayesian computation</b>
+	<br><i>Journal of Quantitative Spectroscopy and Radiative Transfer</i>, vol. 213, pp. 113-118, 2018.<br/>
+	<a href="javascript:toggleBibtex('ericok2018')">[BibTeX]</a>
+	<a href="https://www.sciencedirect.com/science/article/pii/S0022407317309317" target="_blank">[PDF]</a> 
+	<a href="https://www.researchgate.net/project/Inverse-Design-Control-and-Characterization-of-Thermal-Optics-Systems"  target="_blank">[Project Page]</a>
+	</p><div id="bib_ericok2018" class="bibtex noshow">
+	<pre>
+	@article{ericok2018,
+	  title={Optical characterization limits of nanoparticle aggregates at different wavelengths using approximate Bayesian computation},
+	  author={Eri{\c{c}}ok, Ozan Burak and Ert{\"u}rk, Hakan},
+	  journal={Journal of Quantitative Spectroscopy and Radiative Transfer},
+	  volume={213},
+	  pages={113--118},
+	  year={2018},
+	  publisher={Elsevier}
+	}
+	</pre>
+	</div>
+	</li>
+	<!-- End Item: Ericok2018 -->	
+
+	<!-- Start Item: Ericok2018 -->
+	<li ><p>
+	O. B. Ericok, 
+	<a href="https://www.cmpe.boun.edu.tr/~cemgil/" target="_blank">A. T. Cemgil</a>, 
+	<a href="http://web1.boun.edu.tr/hakanerturk/" target="_blank">H. Erturk</a>
+	<br><b>Approximate Bayesian computation techniques for optical characterization of nanoparticle clusters</b>
+	<br><i>Journal of Optical Society of America A</i>, vol. 35, no. 1, pp. 88-97, 2018.<br/>
+	<a href="javascript:toggleBibtex('ericok2018approximate')">[BibTeX]</a>
+	<a href="https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-35-1-88" target="_blank">[PDF]</a> 
+	<a href="https://www.researchgate.net/project/Inverse-Design-Control-and-Characterization-of-Thermal-Optics-Systems"  target="_blank">[Project Page]</a>
+	</p><div id="bib_ericok2018approximate" class="bibtex noshow">
+	<pre>
+	@article{ericok2018approximate,
+	  title={Approximate Bayesian computation techniques for optical characterization of nanoparticle clusters},
+	  author={Ericok, Ozan Burak and Cemgil, Ali Taylan and Erturk, Hakan},
+	  journal={JOSA A},
+	  volume={35},
+	  number={1},
+	  pages={88--97},
+	  year={2018},
+	  publisher={Optical Society of America}
+	}
+	</pre>
+	</div>
+	</li>
+	<!-- End Item: Ericok2018 -->	
+
+	<!-- Start Item: Ericok2017 -->
+	<li ><p>
+	O. B. Ericok, 
+	<a href="http://web1.boun.edu.tr/hakanerturk/" target="_blank">H. Erturk</a>
+	<br><b>Inverse characterization of nanoparticle clusters using unpolarized optical scattering without ex-situ measurements</b>
+	<br><i>Journal of Quantitative Spectroscopy and Radiative Transfer</i>, vol. 198, pp. 117-129, 2017.<br/>
+	<a href="javascript:toggleBibtex('ericok2017inverse')">[BibTeX]</a>
+	<a href="https://www.sciencedirect.com/science/article/pii/S0022407317301164" target="_blank">[PDF]</a> 
+	<a href="https://www.researchgate.net/project/Inverse-Design-Control-and-Characterization-of-Thermal-Optics-Systems"  target="_blank">[Project Page]</a>
+	</p><div id="bib_ericok2017inverse" class="bibtex noshow">
+	<pre>
+	@article{ericok2017inverse,
+	  title={Inverse characterization of nanoparticle clusters using unpolarized optical scattering without ex-situ measurements},
+	  author={Ericok, Ozan B and Ert{\"u}rk, Hakan},
+	  journal={Journal of Quantitative Spectroscopy and Radiative Transfer},
+	  volume={198},
+	  pages={117--129},
+	  year={2017},
+	  publisher={Elsevier}
+	}
+	</pre>
+	</div>
+	</li>
+	<!-- End Item: Ericok2017 -->	
+	
+
+</ul  > <!-- DO NOT DELETE THIS LINE. IT CLOSES <ul class="biblist">  -->	
+
+
+
+<!--
+<h4 style="margin-bottom:0px;padding-top:10px;">Patents</h4>
+<ul class="biblist">
+
+	<li ><p>
+	M. Junyent, J. Pont-Tuset, P. Beltran, N. Narayan, L. Sigal, and A. M. Accardo<br>
+	<b>Metadata extraction and management</b>
+	<br>US 2017/0109419 A1, 2017.<br />
+	<a href="javascript:toggleBibtex('Farre2017')">[BibTeX]</a>
+	<a href="http://www.freepatentsonline.com/20170109419.pdf" target="_blank">[PDF]</a>
+	</p>
+	<div id="bib_Farre2017" class="bibtex noshow">
+	<pre>
+	@patent{Farre2017,
+	  author = {M. Farr\'{e} and M. Junyent and J. Pont-Tuset and P. Beltran and N. Narayan and L. Sigal and A. Smolic and A. M. Accardo},
+	  title = {Metadata extraction and management},
+	  year = {2017},
+	  number = {US 2017/0109419 A1}
+	}
+	</pre></div>
+	</li>
+	
+</ul> 
+-->
+
+
+
+      
+
+
+
+
+<!-- CONFERENCE PUBLICATIONS --> 
+<h4 style="margin-bottom:0px;padding-top:20px;">Conference Publications</h4>
+<ul class="biblist">
+
+	<!-- Start Item: Ericok2016 -->
+	<li ><p>
+	O. B. Ericok, 
+	<a href="http://web1.boun.edu.tr/hakanerturk/" target="_blank">H. Erturk</a>
+	<br><b>Characterization of Nanoparticle Aggregates Using Bayesian Inference via Light Scattering Experiments</b>
+	<br><i>ASME 2016 International Mechanical Engineering Congress and Exposition</i>, November 11–17, 2016, Phoenix, Arizona, USA  <br />
+	<a href="javascript:toggleBibtex('IMECE2016-66780')">[BibTeX]</a>
+	<a href="https://asmedigitalcollection.asme.org/IMECE/proceedings/IMECE2016/50626/V008T10A026/365206" target="_blank">[PDF]</a> 
+	<a href="https://www.researchgate.net/project/Inverse-Design-Control-and-Characterization-of-Thermal-Optics-Systems"  target="_blank">[Project Page]</a>
+	</p>
+	<div id="bib_IMECE2016-66780" class="bibtex noshow">
+	<pre>
+	proceedings{IMECE2016-66780,
+	    author = {Eriçok, Ozan Burak and Ertürk, Hakan},
+	    title = "{Characterization of Nanoparticle Aggregates Using Bayesian Inference via Light Scattering Experiments}",
+	    volume = {Volume 8: Heat Transfer and Thermal Engineering},
+	    series = {ASME International Mechanical Engineering Congress and Exposition},
+	    year = {2016},
+	    month = {11},
+	    doi = {10.1115/IMECE2016-66780},
+	    url = {https://doi.org/10.1115/IMECE2016-66780},
+	    note = {V008T10A026},
+	    eprint = {https://asmedigitalcollection.asme.org/IMECE/proceedings-pdf/IMECE2016/50626/V008T10A026/2497442/v008t10a026-imece2016-66780.pdf},
+	}
+	</pre>
+	</div>
+	</li>
+	<!-- End Item: Ericok2016 -->
+     
+</ul> <!-- DO NOT DELETE THIS LINE. IT CLOSES <ul class="biblist">  -->
+    
+    
+    
+    
+    
+    
+    
+<!-- WRITTEN THESES -->
+<h4 style="margin-bottom:0px;padding-top:20px;">Written Theses</h4>
+<ul class="biblist">
+	
+	<!-- start Item: msc2017 -->
+	<li ><p>
+	M.Sc. thesis
+	<br><b>Characterization of nanoparticle aggregates using inverse formulation and discrete-dipole approximation</b>
+	<br>Bogazici University, Turkey, 2017<br />
+	<a href="javascript:toggleBibtex('ms2017')">[BibTeX]</a>
+	<a href="https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=7lOJX8w_8PRQU1mSHU6-jgY32pDpPmFOf4mQdSOfn7W2jMzX6OLXZkeUBmpTIAxr"  target="_blank">[PDF]</a>
+	</p>
+	<div id="bib_ms2017" class="bibtex noshow">
+	<pre>@MastersThesis{ms2017,
+	author = {Ozan Burak Ericok},
+	title = {Characterization of nanoparticle aggregates using inverse formulation and discrete-dipole approximation},
+	school = {Bogazici University},
+	year = {2017}
+	}</pre>
+	</div>
+	</li>
+	<!-- end Item: msc2017 -->
+	
+</ul>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<!-- PRESENTATIONS -->    
+<h4 style="margin-bottom:0px;padding-top:20px;">Presentations</h4>
+<ul class="biblist">
+	
+	<!-- Start Item: Ericok2017 -->
+	<li ><p>
+	O. B. Ericok, 
+	<a href="http://web1.boun.edu.tr/hakanerturk/" target="_blank">H. Erturk</a>
+	<br><b>Inverse characterization of nanoparticle clusters using unpolarized optical scattering without ex-situ measurements</b>
+	<br><i>The 8th International Symposium on Radiative Transfer, RAD-16</i>, Cappadocia, Turkey, 2016.<br/>
+	<a href="https://www.researchgate.net/project/Inverse-Design-Control-and-Characterization-of-Thermal-Optics-Systems"  target="_blank">[Project Page]</a>
+	</p><div id="bib_ericok2017inverse" class="bibtex noshow">
+	<pre>
+	</pre>
+	</div>
+	</li>
+	<!-- End Item: Ericok2017 -->	
+	
+</ul>
+
+	  
+</div><!-- /.article-wrap -->
+
+{% if site.disqus_shortname and page.comments %} <section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
+</article>
+</div><!-- /#index -->
+	
+<div class="footer-wrap"> <footer> {% include _footer.html %} </footer> </div><!-- /.footer-wrap -->
+{% include _scripts.html %}          
+</body>
+</html>
