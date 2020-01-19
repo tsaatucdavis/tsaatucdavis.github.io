@@ -1,23 +1,25 @@
-title:            Ozan Burak Ericok
+title:            Turkish Student Association at UC Davis
 description:      Welcome to my personal website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //burakericok.github.io
+url:              //tsaatucdavis.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
 disqus_shortname: 
 
 # Owner/author information
 owner:
-  name:           Ozan Burak Ericok
+  name:           TSA at UC Davis
   avatar:         burakericok.jpeg
   bio:            I'm a PhD student in Materials Science and Engineering at UC Davis. Passionate about physics, running and hiking.
-  email:          ozanburakericok@outlook.com
+  email:          tsaatucdavis@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: burakericok
-  linkedin: ozanburakericok/
-  google_scholar: lgOj6FEAAAAJ&hl
+  twitter: 
+  linkedin: 
+  google_scholar:
   google_plus: 
-  github: burakericok
+  github: tsaatucdavis
+  facebook: tsaucd/
+  instagram: tsaatucdavis/
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
 google_verify:
