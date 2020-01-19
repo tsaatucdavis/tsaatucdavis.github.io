@@ -1,5 +1,5 @@
-title:            Turkish Student Association at UC Davis
-description:      Welcome to my personal website.
+title:            TSA at UC Davis
+description:      Official website of Turkish Student Association at UC Davis.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //tsaatucdavis.github.io
 #http://localhost:5000
@@ -9,8 +9,8 @@ disqus_shortname:
 # Owner/author information
 owner:
   name:           TSA at UC Davis
-  avatar:         burakericok.jpeg
-  bio:            I'm a PhD student in Materials Science and Engineering at UC Davis. Passionate about physics, running and hiking.
+  avatar:         tsa_loog.png
+  bio:            Brief bio here.
   email:          tsaatucdavis@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: 
@@ -19,6 +19,7 @@ owner:
   google_plus: 
   github: tsaatucdavis
   facebook: tsaucd/
+  facebook: groups/5870022361/
   instagram: tsaatucdavis/
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
