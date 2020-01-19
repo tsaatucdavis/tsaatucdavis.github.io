@@ -20,3 +20,10 @@ Let's update the plots to CVPR 2018, as always, using the XKCD style, as describ
 So, general deep-learning keywords are getting out of fashion (we take them for granted), but GANs are no longer such a minority (8\%!). LSTM, on the other hand, cannot keep up. Will GANs catch up with general deep learning?<br />
 <br />
 Are GANs the new Deep?
+
+
+Here’s our first event for this quarter: Fall Welcome! Come chat with us and enjoy a cup of Turkish tea. Thank you all for coming and joining us today in our first meeting :) We are looking forward to seeing you again.
+
+Bu dönemin ilk eventiyle karşınızdayız: Tanışma Toplantısı. Gelin beraber sohbet edip demleme çayın keyfini çıkaralım. Ilk buluşmamızda bizlere eşlik eden herkese teşekkür ederiz :) En yakın zamanda görüşmek üzere.
+
+<img align="middle" width="500" src="{{ site.url }}/images/tanisma-toplantisi.png" alt="...">
