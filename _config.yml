@@ -29,12 +29,12 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
   - title: People
-    url: /people/    
-  - title: Publications
-    url: /publications/
+    url: /people/
+  - title: Events
+    url: /events/    
+  - title: Prospective Students
+    url: /prospective/
   - title: Blog
     url: /blog/
 
