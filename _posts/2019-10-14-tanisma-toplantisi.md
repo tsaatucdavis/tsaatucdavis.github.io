@@ -13,4 +13,4 @@ Bu dönemin ilk eventiyle karşınızdayız: Tanışma Toplantısı. Gelin berab
 <img align="middle" width="500" src="{{ site.url }}/images/flyer_tanisma.jpg" alt="...">
 
 <br />
-<img align="middle" width="500" src="{{ site.url }}/images/voleybol.png" alt="...">
+<img align="middle" width="500" src="{{ site.url }}/images/tanisma-toplantisi.png" alt="...">
