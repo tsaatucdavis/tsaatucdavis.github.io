@@ -1,7 +1,7 @@
 ---
 layout: home2
-title: Me in a Nutshell
-description: "Ozan Burak Ericok's website"
+title: Turkish Student Association at UC Davis
+description: "Official website of TSA at UC Davis"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: mountain.png
