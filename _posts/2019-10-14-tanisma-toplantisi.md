@@ -10,4 +10,7 @@ Here’s our first event for this quarter: Fall Welcome! Come chat with us and e
 Bu dönemin ilk eventiyle karşınızdayız: Tanışma Toplantısı. Gelin beraber sohbet edip demleme çayın keyfini çıkaralım. Ilk buluşmamızda bizlere eşlik eden herkese teşekkür ederiz :) En yakın zamanda görüşmek üzere.
 
 <br />
-<img align="middle" width="500" src="{{ site.url }}/images/tanisma-toplantisi.png" alt="...">
+<img align="middle" width="500" src="{{ site.url }}/images/flyer_tanisma.jpg" alt="...">
+
+<br />
+<img align="middle" width="500" src="{{ site.url }}/images/voleybol.png" alt="...">
