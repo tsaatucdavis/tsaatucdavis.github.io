@@ -7,10 +7,10 @@ image:
   feature: mountain.png
 ---
 
-I'm a PhD student in Materials Science and Engineering at University of California, Davis. I study the statistical topology of configuration spaces in an effort to understand phase transitions; the project applies recently-developed mathematical techniques to statistical physics in order to understand a phenomenon of importance to materials science. 
+Turkish student association (TSA) at the University of California at Davis is established in the late 90’s. Our goal, as TSA at UC Davis, is to form a closer bond between students/staff here at UC Davis, present/promote the Turkish culture, art, and history to the American People as well the diverse population of the United States, and guide the new Turkish students and staff arriving at Davis to make the transition a little more smooth.
 
 <br />
-Previously, I was in Prof. Erturk's group at Bogazici University, Turkey, where we studied numerical characterization of nanoparticle aggregates using Bayesian statistical approaches. 
+We would like to invite all our Turkish friends at Davis to become members, and participate in our activities. Who is better than Turkish fellows at sharing bitter homesick days, celebrating a Turkish national holiday, and organizing events that will help our international friends to know us better..
 
 <br />
-I am a mechanical engineer trying to be a materials scientist :)
+All folks out there who are not Turkish, be sure to ask your Turkish buddy about the upcoming event, and do come, you will not regret…
