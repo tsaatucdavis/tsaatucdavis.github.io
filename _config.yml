@@ -31,8 +31,8 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Research
-    url: /research/    
+  - title: People
+    url: /people/    
   - title: Publications
     url: /publications/
   - title: Blog
