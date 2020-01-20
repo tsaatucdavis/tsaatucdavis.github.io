@@ -4,7 +4,7 @@ title: Turkish Student Association at UC Davis
 description: "Official website of TSA at UC Davis"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: turkiye3.jpg
+  feature: turkiye5.jpg
 ---
 
 Turkish student association (TSA) at the University of California at Davis is established in the late 90’s. Our goal, as TSA at UC Davis, is to form a closer bond between students/staff here at UC Davis, present/promote the Turkish culture, art, and history to the American People as well the diverse population of the United States, and guide the new Turkish students and staff arriving at Davis to make the transition a little more smooth.
