@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Türk Kahvaltısı"
-description: "Kış döneminin ilk etkinliği: Türk Kahvaltısı"
+title: "Cultive Yogurt fundraising etkinliği"
+description: "Cultive Frozen Yogurt ev sahipliğindeki fundraising etkinlik duyurusu"
 comments: true
 ---
 
