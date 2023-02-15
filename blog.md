@@ -1,9 +1,9 @@
 ---
 layout: post-index
-permalink: /news/
+permalink: /blog/
 title: All Posts
 tagline: A List of Posts
-tags: [news]
+tags: [blog]
 comments: false
 ---
 
