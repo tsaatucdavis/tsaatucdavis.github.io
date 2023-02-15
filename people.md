@@ -11,38 +11,46 @@ comments: false
 President <br/>
 Electrical and Computer Engineering <br/>
 bkasap@ucdavis.edu <br/>
-# <img align="middle" width="250" src="{{ site.url }}/images/sadigurses.jpeg" alt="..."> 
                                                                                                                                                 
 ### Ece Deniz 
 Vice President <br/>
-Chemical Engineering <br/>
-agonel@ucdavis.edu <br/>
-<img align="middle" width="250" src="{{ site.url }}/images/goktuggonel.jpeg" alt="...">
+Materials Science and Engineering <br/>
+edeniz@ucdavis.edu <br/>
                                                                                      
 ### Deniz Karanfil
-Member <br/>
-Chemical Engineering / Gates Group <br/>
-mbabucci@ucdavis.edu <br/>
-<img align="middle" width="250" src="{{ site.url }}/images/melikebabucci.JPG" alt="...">
-                                                                                  
-### Ozge Bayoglu
-Member <br/>
-Chemical Engineering / Kronawitter Group <br/>
-mbayoglu@ucdavis.edu <br/>
-<img align="middle" width="250" src="{{ site.url }}/images/ozgebayoglu.jpeg" alt="...">
+Treasurer <br/>
+Mechanical Engineering <br/>
+dkaranfil@ucdavis.edu <br/>
+                                                                           
+### Mehmet Berkay On
+Treasurer <br/>
+Electrical and Computer Engineering <br/>
+mbon@ucdavis.edu <br/>
 
-### Erdem Eren
-Member <br/>
-Materials Science and Engineering / Mason Research Group <br/>
-ereren@ucdavis.edu <br/>
-<img align="middle" width="250" src="{{ site.url }}/images/erdemeren.jpeg" alt="...">
+### Begum Koysuren
+Secretary <br/>
+Biological System Engineering <br/>
+bkoysuren@ucdavis.edu <br/>
 
-### Ozan Burak Eriçok
-Member <br/>
-Materials Science and Engineering / Mason Research Group <br/>
-oericok@ucdavis.edu <br/>
-<img align="middle" width="250" src="{{ site.url }}/images/ozanericok.jpeg" alt="...">
-                                                                                 
+### Deniz Gozel
+Event Officer <br/>
+Electrical and Computer Engineering <br/>
+dgozel@ucdavis.edu <br/>
+
+### Omer Emre Ates
+Event Officer <br/>
+Electrical and Computer Engineering <br/>
+oates@ucdavis.edu <br/>
+
+### Ece Goktayoglu
+Visual Communication Designer and Social Media Officer <br/>
+Chemical Engineering <br/>
+egoktayoglu@ucdavis.edu <br/>
+
+### Irem Aydemir
+Visual Communication Designer and Social Media Officer <br/>
+Anthropology <br/>
+iaydemir@ucdavis.edu <br/>
                                                                                  
 
 
