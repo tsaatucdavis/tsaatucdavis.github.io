@@ -7,11 +7,11 @@ modified: 01-19-2020
 comments: false
 ---
 
-### Sadi Gürses
+### Begum Kasap
 President <br/>
-Chemical Engineering / Kronawitter Group <br/>
-smgurses@ucdavis.edu <br/>
-<img align="middle" width="250" src="{{ site.url }}/images/sadigurses.jpeg" alt="...">
+Electrical and Computer Engineering <br/>
+bkasap@ucdavis.edu <br/>
+//<img align="middle" width="250" src="{{ site.url }}/images/sadigurses.jpeg" alt="...">
                                                                                                                                                 
 ### Goktug Gonel 
 Vice President <br/>
