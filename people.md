@@ -11,15 +11,15 @@ comments: false
 President <br/>
 Electrical and Computer Engineering <br/>
 bkasap@ucdavis.edu <br/>
-//<img align="middle" width="250" src="{{ site.url }}/images/sadigurses.jpeg" alt="...">
+# <img align="middle" width="250" src="{{ site.url }}/images/sadigurses.jpeg" alt="..."> 
                                                                                                                                                 
-### Goktug Gonel 
+### Ece Deniz 
 Vice President <br/>
-Chemical Engineering / Moule Group <br/>
+Chemical Engineering <br/>
 agonel@ucdavis.edu <br/>
 <img align="middle" width="250" src="{{ site.url }}/images/goktuggonel.jpeg" alt="...">
                                                                                      
-### Melike Babucci 
+### Deniz Karanfil
 Member <br/>
 Chemical Engineering / Gates Group <br/>
 mbabucci@ucdavis.edu <br/>
