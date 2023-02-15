@@ -3,7 +3,7 @@ layout: post-index
 permalink: /NEWS/
 title: All Posts
 tagline: A List of Posts
-tags: [NEWS]
+tags: [blog]
 comments: false
 ---
 
