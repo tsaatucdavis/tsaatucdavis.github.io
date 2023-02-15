@@ -6,7 +6,3 @@ comments: true
 ---
 
 [The Statement](https://www.ucdavis.edu/news/uc-davis-statement-regarding-earthquakes-turkey-and-syria)
-
-<br />
-
-
