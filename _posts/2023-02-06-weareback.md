@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "We are officially back!"
+title: "02/06/2023 We are officially back!"
 description: "02/06/2023"
 comments: true
 ---
