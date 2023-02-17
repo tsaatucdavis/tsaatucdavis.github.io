@@ -7,11 +7,12 @@ modified: 01-19-2020
 comments: false
 ---
 
+<img align="middle" width="250" src="{{ site.url }}/images/Begum.JPEG" alt="...">
 ### Begum Kasap
 President <br/>
 Electrical and Computer Engineering <br/>
 bkasap@ucdavis.edu <br/>
-<img align="middle" width="250" src="{{ site.url }}/images/Begum.JPEG" alt="...">
+
                                                                                                                                                 
 ### Ece Deniz 
 Vice President <br/>
