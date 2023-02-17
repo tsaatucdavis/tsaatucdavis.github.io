@@ -7,19 +7,18 @@ modified: 01-19-2020
 comments: false
 ---
 
-<img align="middle" width="250" src="{{ site.url }}/images/Begum.JPEG" alt="...">
 ### Begum Kasap
+<img align="middle" width="250" src="{{ site.url }}/images/Begum.JPEG" alt="...">
 President <br/>
 Electrical and Computer Engineering <br/>
 bkasap@ucdavis.edu <br/>
-
                                                                                                                                                 
 ### Ece Deniz 
+<img align="middle" width="250" src="{{ site.url }}/images/EceDeniz.jpg" alt="...">
 Vice President <br/>
 Materials Science and Engineering <br/>
 edeniz@ucdavis.edu <br/>
-<img align="middle" width="250" src="{{ site.url }}/images/EceDeniz.jpg" alt="...">
-                                                                                     
+                                                                                    
 ### Deniz Karanfil
 Treasurer <br/>
 Mechanical Engineering <br/>
@@ -46,10 +45,10 @@ Electrical and Computer Engineering <br/>
 oates@ucdavis.edu <br/>
 
 ### Ece Goktayoglu
+<img align="middle" width="250" src="{{ site.url }}/images/Ece.jpg" alt="...">
 Visual Communication Designer and Social Media Officer <br/>
 Chemical Engineering <br/>
 egoktayoglu@ucdavis.edu <br/>
-<img align="middle" width="250" src="{{ site.url }}/images/Ece.jpg" alt="...">
 
 ### Irem Aydemir
 Visual Communication Designer and Social Media Officer <br/>
