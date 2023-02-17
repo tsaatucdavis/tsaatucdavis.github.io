@@ -1,13 +1,4 @@
----
-layout: post
-title: "UC Davis Statement Regarding Earthquakes in Turkey and Syria"
-description: "The Statement"
-comments: true
----
 
-[The Statement](https://www.ucdavis.edu/news/uc-davis-statement-regarding-earthquakes-turkey-and-syria)
-
-<br />
 ---
 layout: post
 title: "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı"
@@ -54,3 +45,14 @@ Tüm dünya çocuklarının Çocuk Bayramı kutlu olsun! Dileğimiz şudur ki 23
 <img align="middle" width="500" src="{{ site.url }}/images/23nisan_3.jpeg" alt="...">
 <br />
 <img align="middle" width="500" src="{{ site.url }}/images/23nisan_4.jpeg" alt="...">
+
+---
+layout: post
+title: "UC Davis Statement Regarding Earthquakes in Turkey and Syria"
+description: "The Statement"
+comments: true
+---
+
+[The Statement](https://www.ucdavis.edu/news/uc-davis-statement-regarding-earthquakes-turkey-and-syria)
+
+<br />
