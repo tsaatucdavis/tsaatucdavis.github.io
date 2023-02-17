@@ -25,6 +25,7 @@ Mechanical Engineering <br/>
 dkaranfil@ucdavis.edu <br/>
                                                                            
 ### Mehmet Berkay On
+<img align="middle" width="250" src="{{ site.url }}/images/Mehmet.jpg" alt="..."> <br/>
 Treasurer <br/>
 Electrical and Computer Engineering <br/>
 mbon@ucdavis.edu <br/>
