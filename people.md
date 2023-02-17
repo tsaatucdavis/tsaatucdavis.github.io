@@ -11,6 +11,7 @@ comments: false
 President <br/>
 Electrical and Computer Engineering <br/>
 bkasap@ucdavis.edu <br/>
+<img align="middle" width="250" src="{{ site.url }}/images/Begum.jpeg" alt="...">
                                                                                                                                                 
 ### Ece Deniz 
 Vice President <br/>
