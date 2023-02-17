@@ -17,6 +17,7 @@ bkasap@ucdavis.edu <br/>
 Vice President <br/>
 Materials Science and Engineering <br/>
 edeniz@ucdavis.edu <br/>
+<img align="middle" width="250" src="{{ site.url }}/images/EceDeniz.jpg" alt="...">
                                                                                      
 ### Deniz Karanfil
 Treasurer <br/>
@@ -47,6 +48,7 @@ oates@ucdavis.edu <br/>
 Visual Communication Designer and Social Media Officer <br/>
 Chemical Engineering <br/>
 egoktayoglu@ucdavis.edu <br/>
+<img align="middle" width="250" src="{{ site.url }}/images/Ece.jpg" alt="...">
 
 ### Irem Aydemir
 Visual Communication Designer and Social Media Officer <br/>
