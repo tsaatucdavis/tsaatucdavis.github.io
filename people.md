@@ -14,7 +14,7 @@ Electrical and Computer Engineering <br/>
 bkasap@ucdavis.edu <br/>
                                                                                                                                                 
 ### Ece Deniz 
-<img align="middle" width="250" src="{{ site.url }}/images/EceDeniz.jpg" alt="...">
+<img align="middle" width="250" src="{{ site.url }}/images/EceDeniz.jpg" alt="..."> <br/>
 Vice President <br/>
 Materials Science and Engineering <br/>
 edeniz@ucdavis.edu <br/>
@@ -45,7 +45,7 @@ Electrical and Computer Engineering <br/>
 oates@ucdavis.edu <br/>
 
 ### Ece Goktayoglu
-<img align="middle" width="250" src="{{ site.url }}/images/Ece.jpg" alt="...">
+<img align="middle" width="250" src="{{ site.url }}/images/Ece.jpg" alt="..."> <br/>
 Visual Communication Designer and Social Media Officer <br/>
 Chemical Engineering <br/>
 egoktayoglu@ucdavis.edu <br/>
