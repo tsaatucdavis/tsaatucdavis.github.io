@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "02/17/2023 Fundraiser For Turkiye Earthquake Relief"
+title: "02/17/2023 Fundraiser For Turkiye Earthquake Relief hosted by Cultivé Davis"
 description: "02/17/2023"
 comments: true
 ---
