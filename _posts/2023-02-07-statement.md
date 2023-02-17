@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UC Davis Statement Regarding Earthquakes in Turkey and Syria"
+title: "02/07/2023 UC Davis Statement Regarding Earthquakes in Turkey and Syria"
 description: "02/07/2023"
 comments: true
 ---
