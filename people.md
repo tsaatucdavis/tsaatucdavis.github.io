@@ -8,7 +8,7 @@ comments: false
 ---
 
 ### Begum Kasap
-<img align="middle" width="250" src="{{ site.url }}/images/Begum.JPEG" alt="...">
+<img align="middle" width="250" src="{{ site.url }}/images/Begum.JPEG" alt="..."> <br/>
 President <br/>
 Electrical and Computer Engineering <br/>
 bkasap@ucdavis.edu <br/>
