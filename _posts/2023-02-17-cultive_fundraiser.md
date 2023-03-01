@@ -14,3 +14,9 @@ We are waiting everyone who wants to sweeten their Saturday with a delicious fro
 You can check our [instagram page](https://www.instagram.com/p/CoxZJDsplGq/?igshid=MDJmNzVkMjY%3D) for details.
 <br />
 <img align="middle" width="500" src="{{ site.url }}/images/cultive_fundraiser.jpg" alt="...">
+<br />
+<img align="middle" width="500" src="{{ site.url }}/images/cultive_earthquake_1.jpg" alt="...">
+<br />
+<img align="middle" width="500" src="{{ site.url }}/images/cultive_earthquake_2.jpg" alt="...">
+<br />
+<img align="middle" width="500" src="{{ site.url }}/images/cultive_earthquake_3.jpg" alt="...">
