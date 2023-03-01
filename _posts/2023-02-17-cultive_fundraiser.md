@@ -15,8 +15,8 @@ You can check our [instagram page](https://www.instagram.com/p/CoxZJDsplGq/?igsh
 <br />
 <img align="middle" width="500" src="{{ site.url }}/images/cultive_fundraiser.jpg" alt="...">
 <br />
-<img align="middle" width="500" src="{{ site.url }}/images/cultive_earthquake_1.jpg" alt="...">
+<img align="middle" width="500" src="{{ site.url }}/images/cultive_fundraiser_1.jpeg" alt="...">
 <br />
-<img align="middle" width="500" src="{{ site.url }}/images/cultive_earthquake_2.jpg" alt="...">
+<img align="middle" width="500" src="{{ site.url }}/images/cultive_fundraiser_2.jpeg" alt="...">
 <br />
-<img align="middle" width="500" src="{{ site.url }}/images/cultive_earthquake_3.jpg" alt="...">
+<img align="middle" width="500" src="{{ site.url }}/images/cultive_fundraiser_3.jpeg" alt="...">
