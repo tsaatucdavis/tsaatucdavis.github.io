@@ -33,7 +33,7 @@ mbon@ucdavis.edu <br/>
 ### Begum Koysuren
 <img align="middle" width="250" src="{{ site.url }}/images/begum.jpg" alt="..."> <br/>
 Secretary <br/>
-Biological System Engineering <br/>
+Biological Systems Engineering <br/>
 bkoysuren@ucdavis.edu <br/>
 
 ### Deniz Gozel
