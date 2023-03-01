@@ -13,10 +13,14 @@ We are waiting everyone who wants to sweeten their Saturday with a delicious fro
 <br />
 You can check our [instagram page](https://www.instagram.com/p/CoxZJDsplGq/?igshid=MDJmNzVkMjY%3D) for details.
 <br />
+<br />
 <img align="middle" width="500" src="{{ site.url }}/images/cultive_fundraiser.jpg" alt="...">
+<br />
 <br />
 <img align="middle" width="500" src="{{ site.url }}/images/cultive_fundraiser_1.jpeg" alt="...">
 <br />
+<br />
 <img align="middle" width="500" src="{{ site.url }}/images/cultive_fundraiser_2.jpeg" alt="...">
+<br />
 <br />
 <img align="middle" width="500" src="{{ site.url }}/images/cultive_fundraiser_3.jpeg" alt="...">
