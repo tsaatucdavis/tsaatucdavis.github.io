@@ -52,11 +52,6 @@ oates@ucdavis.edu <br/>
 Visual Communication Designer and Social Media Officer <br/>
 Chemical Engineering <br/>
 egoktayoglu@ucdavis.edu <br/>
-
-### Irem Aydemir
-Visual Communication Designer and Social Media Officer <br/>
-Anthropology <br/>
-iaydemir@ucdavis.edu <br/>
                                                                                  
 
 
