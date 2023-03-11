@@ -20,6 +20,7 @@ Materials Science and Engineering <br/>
 edeniz@ucdavis.edu <br/>
                                                                                     
 ### Deniz Karanfil
+<img align="middle" width="250" src="{{ site.url }}/images/karanfil.jpg" alt="..."> <br/>
 Treasurer <br/>
 Mechanical Engineering <br/>
 dkaranfil@ucdavis.edu <br/>
