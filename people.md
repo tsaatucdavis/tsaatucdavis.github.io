@@ -39,6 +39,7 @@ Electrical and Computer Engineering <br/>
 oates@ucdavis.edu <br/>
 
 ### Deniz Gozel
+<img align="middle" width="250" src="{{ site.url }}/images/denizgozel.jpg" alt="..."> <br/>
 Event Officer <br/>
 Electrical and Computer Engineering <br/>
 dgozel@ucdavis.edu <br/>
