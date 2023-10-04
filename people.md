@@ -48,5 +48,5 @@ dgozel@ucdavis.edu <br/>
 <img align="middle" width="250" src="{{ site.url }}/images/denizinci.jpg" alt="..."> <br/>
 Secretary <br/>
 Plant Sciences <br/>
-dinci@ucdavis.edu <br/>
+inci@ucdavis.edu <br/>
                                                                                  
